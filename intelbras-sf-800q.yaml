@@ -1,0 +1,27 @@
+manufacturer: Intelbras
+model: SF 800 Q+
+slug: sf-800-q+
+part_number: SF-800-Q+
+is_full_depth: false
+u_height: 1
+interfaces:
+  - name: ether1
+    type: 100base-t
+  - name: ether2
+    type: 100base-t
+  - name: ether3
+    type: 100base-t
+  - name: ether4
+    type: 100base-t
+  - name: ether5
+    type: 100base-t
+  - name: ether6
+    type: 100base-t
+  - name: ether7
+    type: 100base-t
+  - name: ether8
+    type: 100base-t
+power-ports:
+  - name: power1
+    type: p4
+    maximum_draw: 1
